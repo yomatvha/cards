@@ -1,0 +1,36 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 15px;
+  width: 350px;
+  margin-bottom: 30px;
+  background-color: #ddd;
+}
+
+.card-img-top {
+  width: 100%;
+}
+
+.card-body {
+  padding: 15px;
+  border: 1px solid #000;
+  color: #000;
+  text-align: left;
+  font-size: 18px;
+}
+
+.card-title {
+  font-size: 24px;
+}
+
+.btn {
+  background-color: rgb(18, 158, 223);
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+}
